@@ -13,7 +13,7 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🍼'
-global.REACT_NUMBER = '94775978468'
+global.REACT_NUMBER = '94741619883'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -35,22 +35,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['94775978468'] //ur owner number
-global.ownername = "𝙼𝚁.𝚂𝙸𝙻𝙴𝙽" //ur owner name
+global.ownername = "𝙼𝚁.ᴅᴜʟᴀ" //ur owner name
 global.ytname = "YT: 𝚂𝙸𝙻𝙴𝙽 𝚃𝙴𝙲𝙷𝚂𝙷𝙾𝚆" //ur yt chanel name
 global.socialm = "GitHub: 𝚂𝙸𝙻𝙴𝙽𝙼𝙾𝙳𝚉" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "ᴤʀɪ ʟᴀɴᴋᴀ, ᴤᴏᴜᴛʜ, ᴍᴀᴛʜᴀʀᴀ" //ur location
 
 //bot bomdy 
-global.owner = ['775978468']
-global.ownertag = '775978468' //ur tag number
-global.botname = '🧸 𝚂𝙸𝙻𝙴𝙽 𝙱𝙾𝚃𝚉 🧸' //ur bot name
+global.owner = ['741619883']
+global.ownertag = '741619883' //ur tag number
+global.botname = '🧸 ᴅ_ɴʏɴ 𝙱𝙾𝚃𝚉 🧸' //ur bot name
 global.linkz = "මම⍤⃝🤭─────💞🧸මලක්★᭄❥͜͡⃝ᶫᵒᵛᵉ⃝➤⃟̱̱̱̱̄̄̄̄😊" //your theme url which will be displayed on whatsapp
 global.websitex = "වදින්නෑ කාගෙවත් දෙපා➸⃟̀̀̀̀̀̀̀̀͡🌈️◈━━━━🤪▷ ●͙͙͙͙🌼යදින්නෑ කාගෙවත් සමා➸⃟̀̀̀̀̀̀̀🌈️◈━━━━🤬▷ ●͙͙͙͙͙͙͙🌼අහන්නෑ කාගෙවත් කතා➸🌈️⃟̀̀̀̀̀̀̀̀◈━━━━😬▷ ●͙͙͙͙͙͙͙🌼👍 " //ur website to be displayed
 global.botscript = '┃🎀⃝⃡ ʟ̶ᴏ̶ᵛ̶͠͠ᵉ̶ ᴍ̶ᵉ̶  ⃝⃡🎀 𝙾̶̷̈̇𝚁̶ 👀⃞⃖⃗ʜᴀ̶ᵗᵉ̶ ᴍ̶ᵉ̶⃞⃖⃗ 🍹  ᴅᴏ̶̷͢͢ⁿᵗ̶ོ ᴘ̷ʟ̶ᵃ͠ʸ̶ ᴡ̷̈͢͢͢ɪ̶ᵗʰ̶ ᴍ̶ᵉ̶͠   ⃤ོ' //script link
 global.reactmoji = "❤" //ur menu react emoji
 global.themeemoji = "🧸" //ur theme emoji
-global.packname = "𝚂𝙸𝙻𝙴𝙽 𝙱𝙾𝚃 Stickers\n\n\n\n\n\n\n\n\n\n\n🤤🧸 " //ur sticker watermark packname
-global.author = "𝙼𝚁.𝚂𝙸𝙻𝙴𝙽" //ur sticker watermark author
+global.packname = "ᴅ_ɴʏɴ 𝙱𝙾𝚃 Stickers\n\n\n\n\n\n\n\n\n\n\n🤤🧸 " //ur sticker watermark packname
+global.author = "𝙼𝚁.ᴅᴜʟᴀ" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['775978468'] //ur premium numbers
+global.premium = ['741619883'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
